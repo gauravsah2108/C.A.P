@@ -1,4 +1,5 @@
 # C.A.P
+# for detail explain C.A.P.docx file 
 Building a Real-time Customer Analytics Platform.
 
 
